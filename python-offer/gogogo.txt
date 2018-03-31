@@ -1,0 +1,45 @@
+[1, 2, 3, 4, 3]
+[1, 2, 3, 4, 3]
+[1, 2, 3, 4, 3]
+[1, 2, 3, 4, 3]
+this is index and array[index]: 0 1
+[1, 2, 3, 4, 3]
+this is array[index] and array[array[index]]: 2 3
+[2, 1, 3, 4, 3]
+[2, 1, 3, 4, 3]
+this is index and array[index]: 0 2
+[2, 1, 3, 4, 3]
+this is array[index] and array[array[index]]: 3 4
+[3, 1, 2, 4, 3]
+[3, 1, 2, 4, 3]
+this is index and array[index]: 0 3
+[3, 1, 2, 4, 3]
+this is array[index] and array[array[index]]: 4 3
+[4, 1, 2, 3, 3]
+[4, 1, 2, 3, 3]
+this is index and array[index]: 0 4
+[4, 1, 2, 3, 3]
+this is array[index] and array[array[index]]: 3 3
+[3, 1, 2, 3, 4]
+[3, 1, 2, 3, 4]
+this is index and array[index]: 0 3
+3
+[0, 1, 2, 3, 4]
+[0, 1, 2, 3, 4]
+[0, 1, 2, 3, 4]
+[0, 1, 2, 3, 4]
+[0, 1, 2, 3, 4]
+[0, 1, 2, 3, 4]
+[0, 1, 2, 3, 4]
+False
+[1, 2, 7, 1, 2]
+[1, 2, 7, 1, 2]
+[1, 2, 7, 1, 2]
+[1, 2, 7, 1, 2]
+this is index and array[index]: 0 1
+[1, 2, 7, 1, 2]
+this is array[index] and array[array[index]]: 2 7
+[2, 1, 7, 1, 2]
+[2, 1, 7, 1, 2]
+this is index and array[index]: 0 2
+[2, 1, 7, 1, 2]
